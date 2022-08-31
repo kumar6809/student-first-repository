@@ -1,2 +1,3 @@
 # student-first-repository
-this my Furst reposoty in remote
+this my First repository in remote , 
+changes made in remote manually
